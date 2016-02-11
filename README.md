@@ -1,4 +1,4 @@
-# - Getting and Cleaning Date - Course Project
+# Getting and Cleaning Date Course Project
 ##This file contains the documentation of the task - Getting and Cleaning Date - Course Project
 ###The dataset being used is: Human Activity Recognition Using Smartphones
 ###Using RStudio by importing the file.
